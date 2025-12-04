@@ -1,0 +1,5 @@
+# Игнорировать ВСЁ кроме README и src
+*
+!README.md
+!src/
+!.gitignore
